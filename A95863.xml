@@ -1,0 +1,471 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Verses in honour of the reverend and learned judge of the law, Iudge Ienkin; the sole author of his soveraignes rights, Englands laws, and the peoples liberty. / Written by a loyall subject of his Majesties.</title>
+            <author>Loyall subject of his Majesties.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95863</idno>
+            <idno type="STC">Wing V258</idno>
+            <idno type="STC">Thomason E435_30</idno>
+            <idno type="STC">ESTC R203910</idno>
+            <idno type="EEBO-CITATION">99863691</idno>
+            <idno type="PROQUEST">99863691</idno>
+            <idno type="VID">161594</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95863)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161594)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E435[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Verses in honour of the reverend and learned judge of the law, Iudge Ienkin; the sole author of his soveraignes rights, Englands laws, and the peoples liberty. / Written by a loyall subject of his Majesties.</title>
+                  <author>Loyall subject of his Majesties.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aprill. 14th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jenkins, David, 1582-1663 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161594:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 74 -->
+            <p>VERSES IN HONOVR OF THE Reverend and Learned Iudge of the Law, IVDGE IENKIN; The ſole Author of his Soveraignes Rights, Englands Laws, and the peoples Liberty.</p>
+            <p>Written by a Loyall Subject of his Majeſties.</p>
+            <p>Printed in the Yeare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="2" facs="tcp:161594:2"/>
+            <!-- PDF PAGE 75 -->
+            <head>
+               <g ref="char:V">Ʋ</g>pon Iudge <hi>Ienkin,</hi> and his Plea before the Speakers of the two Houſes of Parliament, Lord of <hi>Mancheſter, William Lenthall</hi> Eſquire, at the Chancery Barre, <hi>Feb. 14. 1647.</hi>
+            </head>
+            <l>
+               <seg rend="decorInit">H</seg>Ave you e're ſeen a ſullen Rock, diſdain</l>
+            <l>The high-ſwolne Billows of th'enraged Main?</l>
+            <l>And in pure Indignation, defie</l>
+            <l>
+               <hi>Neptune,</hi> and all his curl'd Artillery?</l>
+            <l>Juſt ſo ſtood <hi>JENKIN!</hi> like a well-fix'd Rock</l>
+            <l>Built on a Baſe, (that never fear'd the ſhock</l>
+            <l>Of Rage, or Tempeſt) Juſtice, and the <hi>Law;</hi>
+            </l>
+            <l>Which by a Lovely, yet Majeſtick Awe,</l>
+            <l>Bounded, and bleſs'd Us; till theſe ſavage Bores</l>
+            <l>Broke it upon Her, and caſt out of Dores,</l>
+            <l>Law, and Religion, Mercy, Diſcipline,</l>
+            <l>Sence, and Civillity, and what e're's Divine</l>
+            <l>Or decent, and in lieu of them, did bring</l>
+            <l>
+               <hi>Geneva's</hi> Sluttery, and <hi>(that curſed Thing)</hi>
+            </l>
+            <l>The <hi>Hell bred Covenant,</hi> 'mongſt us, to enſnare.</l>
+            <l>And cheat poore <hi>Iſrael</hi> with <hi>Gibeons</hi> Ware:</l>
+            <l>Could any but <hi>this Parliament</hi> and <hi>Hell,</hi>
+            </l>
+            <l>Ere teach the <hi>very Law</hi> for to <hi>Rebell?</hi>
+            </l>
+            <l>And implead Loyalty, call it Criminous,</l>
+            <l>Nay Treaſon, (worſt of crimes) yet even thus</l>
+            <l>Great <hi>Strafford,</hi> Reverend <hi>Laud,</hi> and <hi>Burley</hi> fell;</l>
+            <l>Whoſe Martyrdomes when after-ages tell</l>
+            <l>Poſterity will ſtand agaſt, and ſweare</l>
+            <l>That <hi>Rebell Typhons,</hi> and not <hi>Men</hi> dwelt here:</l>
+            <l>Unpolitick Miſcreants! to un-hinge a State,</l>
+            <l>And leave it's Emendation unto Fate,</l>
+            <pb n="3" facs="tcp:161594:2"/>
+            <!-- PDF PAGE 75 -->
+            <l>Or Fortune! Prudence being baniſh quite,</l>
+            <l>Which the Learn'd Bude calls, Reaſons Favourite;</l>
+            <l>Did not that<note n="*" place="margin">Lord <hi>Brooke</hi> in his ſpeech a<g ref="char:EOLhyphen"/>gainſt Bi<g ref="char:EOLhyphen"/>ſhops, <hi>Anno 1642.</hi> or <hi>43.</hi>
+               </note> Sophie Senator once cry</l>
+            <l>(We came not here to build) let us <hi>Deſtroy!</hi>
+            </l>
+            <l>Thus downe fell D gon-Biſhops! who had ſtood</l>
+            <l>Full foureteene hundred yeares before his bloud</l>
+            <l>Did ſpeake him Gentleman; admit that he</l>
+            <l>Were of no poſterne, but true Pedigree:</l>
+            <l>But ſtraight as thoſe<note n="*" place="margin">The Bi<g ref="char:EOLhyphen"/>ſhops.</note> Bright Stars were all unſpher'd,</l>
+            <l>The Dung-hill Exhalations appeard,</l>
+            <l>The Houſe of Commons, and began to ſtrive</l>
+            <l>For Parity at leaſt, and boldly give</l>
+            <l>The Lords check-mate; (how wiſe, how juſt is God,</l>
+            <l>To pay degenerous Peeres, with their owne Rod!)</l>
+            <l>Yet boaſt not (Feet of Clay!) againſt the Head</l>
+            <l>Of Gold; Your Kingdome too is numbered;</l>
+            <l>For all your Bramble-Grandeur, <hi>Greg</hi> does vow</l>
+            <l>To be <hi>ſupreame,</hi> when you doe hang below:</l>
+            <l>And when your Rebell-ſoules doe frie in Hell,</l>
+            <l>(Infecting with your Names our Chronicle)</l>
+            <l>Then <hi>JENKIN</hi> ſhall be <hi>Canoniz'd</hi> in Story,</l>
+            <l>His <hi>KINGS</hi> Defender, and his Kingdomes Glory!</l>
+         </div>
+         <div type="poem">
+            <head>Another Coppy of Verſes on the Reverend Iudge <hi>Jenkins.</hi>
+            </head>
+            <l>BRave Limb of <hi>Law,</hi> great <hi>Englands Statute</hi> prop,</l>
+            <l>Whom Tyrants neither can make ſtoop or ſtop:</l>
+            <l>Againſt their <hi>Ord'nance,</hi> thou thy <hi>Cannon</hi> bring'ſt,</l>
+            <l>They un-king <hi>Charles,</hi> and Him again Thou King'ſt.</l>
+            <l>For Lawes and Statutes Humane and Divine</l>
+            <l>Thy knowledge makes thy true allegeance ſhine:</l>
+            <l>And 'tis more eaſie for thy foes to be</l>
+            <l>Three Kingdomes ruine, then to conquer thee.</l>
+            <l>Stout heart of Oke, whom no falſe private end</l>
+            <l>Corrupts, but dares to break, but not to bend.</l>
+            <l>Afflictions fire hath burniſh'd bright thy fame,</l>
+            <l>All <hi>Britain</hi> is embrodered with thy name:</l>
+            <pb n="4" facs="tcp:161594:3"/>
+            <!-- PDF PAGE 76 -->
+            <l>And <hi>Wales,</hi> thy Honour, no Ecclipſe can ſhade,</l>
+            <l>Becauſe thou didſt produce ſo brave a Blade:</l>
+            <l>Grave Reverend <hi>Jenkin,</hi> that with pen and word</l>
+            <l>Support'ſt true <hi>Juſtice</hi> Ballance, and her <hi>ſword</hi>
+            </l>
+            <l>Will never hurt thee: If in juſtice dares</l>
+            <l>Draw forth her hanger, thou art clear'd of cares:</l>
+            <l>If Foes judge thee to death, they doe no more</l>
+            <l>Then Nature, Nature doomd thy death before:</l>
+            <l>The more thy ſufferings are, the more thy praiſe,</l>
+            <l>They may take minutes from thee, houres, and dayes,</l>
+            <l>Weekes they may rob thee of, but ther's no feare</l>
+            <l>That they will ſteale thy Climactericall yeare.</l>
+            <l>Thou art Lawes <hi>Line,</hi> whoſe Levell is diſpatch,</l>
+            <l>Thou art Lawes <hi>Larke,</hi> whoſe unſeeld eyes keepe watch,</l>
+            <l>Lawes <hi>Lamp,</hi> whoſe light ſhewes juſtice what is right</l>
+            <l>Lawes <hi>Loome,</hi> whoſe liſt cannot be ſwayd by might,</l>
+            <l>Law is the Helme, that ſteeres the ſhip of State,</l>
+            <l>The chearefull Star which earely ſhines and late;</l>
+            <l>The ſtaffe whoſe ſtay ſupports the languiſhing;</l>
+            <l>The Spring whoſe ſtreame is ever flouriſhing:</l>
+            <l>Straight <hi>line,</hi> bright <hi>lamp,</hi> ſweet <hi>Lark,</hi> ſtrong <hi>Loome</hi> choice Liſt,</l>
+            <l>
+               <hi>Guide, ſhine, ſhield, guard,</hi> and live Truths Martialiſt:</l>
+            <l>
+               <hi>Rare Helme,</hi> ſtraight <hi>ſtaffe,</hi> pure <hi>ſtreame,</hi> illuſtrious <hi>Star</hi>
+            </l>
+            <l>
+               <hi>Steeres, cheeres, directs, ſupports,</hi> in Peace and War:</l>
+            <l>Cleare Light, pure Lampe, rich ſtreame of truth and life,</l>
+            <l>Juſtices Throane, to coole the heate of ſtrife,</l>
+            <l>Whoſe ſpotleſſe currant, runnes a chriſtall courſe,</l>
+            <l>By curbing Awe with Law, with cenſures force,</l>
+            <l>By making every wronger render right,</l>
+            <l>By being blinde, and yet have cleareſt ſight.</l>
+            <l>This is juſt Law, and he a Lawyer is</l>
+            <l>Who rightly knowes, and practiſeth all this:</l>
+            <l>And ſuch art thou grave, Judge, even thou art he,</l>
+            <l>The Magazine of Lawes Integrity,</l>
+            <l>Long maiſt thou live, ſince thy good life doth give</l>
+            <l>Juſtice new breath, and make her ever live.</l>
+            <l>'Tis not by Law that thou a Priſoner art,</l>
+            <l>But for thy taking Law, and Juſtice part;</l>
+            <pb n="5" facs="tcp:161594:3"/>
+            <!-- PDF PAGE 76 -->
+            <l>Opreſſions weight, thy minde cannot deject</l>
+            <l>Thou protect'ſt Law, and Law will thee protect:</l>
+            <l>The courage of a Martyr, is his cauſe,</l>
+            <l>Who ſuffers for his God, and Countries Lawes.</l>
+            <l>If thou fall for thy King and Kingdomes ſake,</l>
+            <l>The <hi>Cauſe</hi> will thee, a glorious Martyr make.</l>
+            <l>Courage brave Patriot, to thy tacklin ſtand,</l>
+            <l>Thou art ſupported by th' Almighties hand;</l>
+            <l>Thy fame and name ſhall live with the Eternall,</l>
+            <l>When as thy foes ſhall fry in flames Infernall.</l>
+            <closer>
+               <signed>T. I.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <head>In Honour of the Reverend Father of the Law, <hi>Judge Jenkin.</hi>
+            </head>
+            <argument>
+               <list>
+                  <item>1 <hi>A</hi> Sophy <hi>politicke, that ſlights all charmes</hi>
+                     <note place="margin">The Argu<g ref="char:EOLhyphen"/>ment.</note>
+                  </item>
+                  <item>2 <hi>A</hi> Rock <hi>that beares a Houſe againſt all ſtormes,</hi>
+                  </item>
+                  <item>3 Moſes <hi>and's Serpents Rod,</hi>
+                  </item>
+                  <item>4 <hi>A nimble Cat,</hi>
+                  </item>
+                  <item>5 <hi>One of the lean Kine that devoured the fat.</hi>
+                  </item>
+                  <item>6 <hi>A</hi> Brittiſh Lawyer, <hi>well belov'd and knowne,</hi>
+                  </item>
+                  <item>7 <hi>Judge</hi> Jenkin, <hi>(wiſe, grave, juſt) is ſuch a one.</hi>
+                  </item>
+               </list>
+            </argument>
+            <lg>
+               <l>STate <hi>Lawyers,</hi> you that make the Lawes your ſpells,<note place="margin">
+                     <hi>1</hi> A Sophy.</note>
+               </l>
+               <l>And charme the Truth, (diſſembling <hi>Machiavils</hi>)</l>
+               <l>Well may you charm with Law-tearms (doubtfull words)</l>
+               <l>And feed with <hi>Chaffe</hi> (in ſtead of corne) young Birds,</l>
+               <l>
+                  <hi>Jenkins</hi> (too old for you) he ſpies your nets,</l>
+               <l>He tells us where, and how, and who them ſets.</l>
+            </lg>
+            <lg>
+               <l>Send out your ſtormes floods, guſts, tempeſtuous rain,<note place="margin">
+                     <hi>2</hi> Rock.</note>
+               </l>
+               <l>You beat upon this houſe (his corps) in vain:</l>
+               <l>You ſtorm at him, he cares not for't a louſe,</l>
+               <l>His God's his Rock, that props Him and his Houſe.</l>
+               <l>Beat not againſt this Rock; this if you ſpurne,</l>
+               <l>To powder, yea to Atomes yee ſhall turne.</l>
+            </lg>
+            <lg>
+               <l>Ye <hi>Egyptian</hi> Jugglers, ſhew your <hi>Serpent ſtickes,</hi>
+                  <note place="margin">
+                     <hi>3</hi> Moſes and his ſerpent.</note>
+               </l>
+               <l>(Statutes miſconſtru'd) ſhew your ſhuffling trickes</l>
+               <l>To blind your <hi>Pharaoh,</hi> (your grand Parliament)</l>
+               <l>God (out of <hi>Cambria</hi>) hath a <hi>Moſes</hi> ſent,</l>
+               <pb n="6" facs="tcp:161594:4"/>
+               <!-- PDF PAGE 77 -->
+               <l>His Serpent Will devoure yours, every crumme,</l>
+               <l>Hee'l ſpoyle your pleading, ſtrike you all quite dumb.</l>
+            </lg>
+            <lg>
+               <l>You toſſe and tumble him;<note place="margin">
+                     <hi>4</hi> A nimble Cat.</note> but what of that?</l>
+               <l>He lights ſtill on his feet, as doth a Cat:</l>
+               <l>And in good time may ſcratch out all your eyes</l>
+               <l>That on King <hi>Charles</hi> are falſe rebellious ſpies.</l>
+            </lg>
+            <lg>
+               <l>Y'ave made him leane,<note place="margin">
+                     <hi>5</hi> One of the <hi>7</hi> loan King.</note> you <hi>Baſan Buls</hi> are fat,</l>
+               <l>He is much better, you much worſe for that:</l>
+               <l>His Chyrograph (as on <hi>Belſhazers</hi> Wall)</l>
+               <l>Will (on a ſudden) make your courage fall.</l>
+               <l>And in my <hi>Genius,</hi> I am much miſtook,</l>
+               <l>If each of you have not a hanging look:</l>
+               <l>Rebellion and Witch-craft are alike,</l>
+               <l>God hates them both, his vengeance both ſhall ſtrike.</l>
+               <l>Your fat is turn'd to leane, your reigne is done,</l>
+               <l>And you (each one) a bare State-skelleton:</l>
+               <l>Your wealth ſhall waſte away, and all your parts</l>
+               <l>Shall be turn'd rotten, as are now your hearts.</l>
+            </lg>
+            <lg>
+               <l>A <hi>Britiſh Lawyer,</hi>
+                  <note place="margin">
+                     <hi>6</hi> A Britiſh Lawyer, &amp;c.</note> (in the Lawes well grounded)</l>
+               <l>By lawleſſe madmen in a Jayle impounded;</l>
+               <l>Belov'd, not having any good mans hate,</l>
+               <l>A well known Champion'gainſt <hi>th'uſurping State.</hi>
+               </l>
+               <l>He was no <hi>Clotho</hi> to ſpin out a cauſe,</l>
+               <l>And grinde poore <hi>Clients</hi> with oppreſſions jawes.</l>
+               <l>He was no <hi>Lachefis</hi> to reele out ſuits</l>
+               <l>With <hi>fine put-offs,</hi> demurres, or vain diſputes:</l>
+               <l>But he was <hi>Atropos</hi> to cut the thread,</l>
+               <l>To ſtifle ſtrife, and ſtrike contention dead.</l>
+               <l>Long live (thou learn'd preſerver of the Law)</l>
+               <l>Traytors to curb, and Rebels keep in a we.</l>
+            </lg>
+            <lg>
+               <l>And when Death brings this good man to his grave,<note place="margin">
+                     <hi>7</hi> A Judge, &amp;c.</note>
+               </l>
+               <l>You that love Truth, and Law, his Parchments ſave,</l>
+               <l>That they may be ſuch terror unto ſome,</l>
+               <l>As once was <hi>Ziska's</hi> skin upon a Drum. <hi>G. W. Baſileophilos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When force of Armes could not one jot prevaile,</l>
+               <l>To make reſiſtance'gainſt the Dragons taile,</l>
+               <l>That Giant monſter call'd a multitude,</l>
+               <pb n="7" facs="tcp:161594:4"/>
+               <!-- PDF PAGE 77 -->
+               <l>Which with a raging fury did intrude</l>
+               <l>Upon the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>acefull quiet of the Land,</l>
+               <l>Then (like <hi>Gamaliel</hi>) in the gap did ſtand</l>
+               <l>Iudge <hi>Jenkins;</hi> he with Law and Eloquence,</l>
+               <l>Hammer'd the fenceleſſe people into ſence</l>
+               <l>Of all illegall ills which they have done</l>
+               <l>Againſt the King in this rebellion.</l>
+               <l>He tells the <hi>Army</hi> and the <hi>Parliament,</hi>
+               </l>
+               <l>What Byas wayes they run in government?</l>
+               <l>How Leg ſlative power and cloſe Committee</l>
+               <l>Muſt needs deſtroy the Countrey and this Citie.</l>
+               <l>How Perjury, and Blood, and Sacriledge,</l>
+               <l>Are Hell and Treaſons curſed priviledge.</l>
+               <l>Let <hi>Cedunt Arma Togae</hi> be his praiſe,</l>
+               <l>His head be crown'd with <hi>Starres</hi> in ſtead of <hi>Bayes.</hi>
+               </l>
+               <l>The conqueſt with the pen to him we grant</l>
+               <l>In ſpite of <hi>Directory</hi> or <hi>Covenant.</hi>
+               </l>
+               <l>There's many Writers that can jeere and jybe,</l>
+               <l>And wittily doe gall Rebellions Kybe,</l>
+               <l>Who every week doe dare to write what's true,</l>
+               <l>Call <hi>Martin Traytor,</hi> and <hi>Miles Corbet Jew:</hi>
+               </l>
+               <l>And now and then (a fancy by the way)</l>
+               <l>They mention <hi>Pembroke,</hi> or the zealous <hi>Say,</hi>
+               </l>
+               <l>The man (Man-devill) mighty <hi>Mancheſter:</hi>
+               </l>
+               <l>And divers others in particuler;</l>
+               <l>Theſe have done well in ſome things they have written,</l>
+               <l>And <hi>Englands</hi> foes (by them) have been Flea-bitten:</l>
+               <l>Theſe are but ſquibs, and crackers (at the beſt)</l>
+               <l>For though they write plain truth, 'tis read in jeſt.</l>
+               <l>But Noble <hi>Jenkins</hi> (without feare or flattry)</l>
+               <l>With Common Law (thy Cannon) mak'ſt ſuch battry,</l>
+               <l>Whereby the <hi>Levellers</hi> ſhall leveld be,</l>
+               <l>And thy reward bleſt immortallity.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>To the reverend and learned ſupporter of the Law, Judge DAVID JENKYNS.</head>
+            <head type="sub">
+               <hi>Anagramma.</hi> KAINS DID ENVY.</head>
+            <l>A Crew of <hi>Kains,</hi> and <hi>Kains</hi> accurſed ſeed,</l>
+            <l>In covenant (with Death and Hell) agreed,</l>
+            <pb n="8" facs="tcp:161594:5"/>
+            <!-- PDF PAGE 78 -->
+            <l>That every <hi>Abel</hi> they would kill and ſlay,</l>
+            <l>Who would not be of their rebellious way.</l>
+            <l>
+               <hi>Kains</hi> won the day, poore <hi>Abels</hi> were not able</l>
+            <l>T'oppoſe ſo damnable a R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut and Rable.</l>
+            <l>Murder was <hi>Kains</hi> delightfull recreation,</l>
+            <l>Impriſonment, exile, and ſequeſtration,</l>
+            <l>Oppreſſions, taxes, plundrings, polls, extortions,</l>
+            <l>Swords, halters, axes, were poore <hi>Abels</hi> portions.</l>
+            <l>The King himſelfe is alſo uſed thus,</l>
+            <l>Strong guarded by a whelp of <hi>Cerberus:</hi>
+            </l>
+            <l>Theſe lawleſſe miſeries (the land o're-flowing)</l>
+            <l>And law and juſtice held ſcarce worth the knowing.</l>
+            <l>Then thou (grave Judge) with courage and with skill,</l>
+            <l>Didſt take in hand the right ſupporting quill,</l>
+            <l>Of <hi>Englands</hi> down-trod Statutes, and dejection,</l>
+            <l>Which thou haſt rais'd up to new reſurrection:</l>
+            <l>Thy pen cuts deeply, and more ſharply ſtrikes</l>
+            <l>Then doth a hundred thouſand ſwords and pikes.</l>
+            <l>And for thy loyall writing true and free,</l>
+            <l>The curſed <hi>Kains</hi> did <hi>Envy</hi> and hate thee.</l>
+            <l>This Parliament hath Lawyers who are members,</l>
+            <l>But they have rak'd their law up in the embers.</l>
+            <l>They know it, but not ſhew it, Serjeant <hi>Wilde,</hi>
+            </l>
+            <l>Saint <hi>John,</hi> and <hi>Selden,</hi> theſe are paſt a childs,</l>
+            <l>And ſure <hi>Miles Corbet</hi> is not ſuch a ſot,</l>
+            <l>But that he knowes what's law, and what is not.</l>
+            <l>But thoſe men are not tortur'd by the <hi>Kains,</hi>
+            </l>
+            <l>Nor have they feeling of poore <hi>Abels</hi> pains;</l>
+            <l>And though they know all is unlawfull done,</l>
+            <l>They let all law, and right to ruine run</l>
+            <l>Becauſe injuſtice is their pretious jem,</l>
+            <l>And chiefeſt treaſure that enricheth them.</l>
+            <l>But <hi>Jenkins</hi> ſtill dares call a ſpade a ſpade,</l>
+            <l>To ſpeak and write truth is his onely trade:</l>
+            <l>Fine ſmooth-tongu'd flattry, he will ſtill abhor it,</l>
+            <l>Though <hi>Kains did Envy</hi> him, he cares not for it.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
